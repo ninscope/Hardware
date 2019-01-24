@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Python480-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -615,14 +614,12 @@ F 3 "" H 8050 8800 50  0001 C CNN
 	1    8050 8800
 	0    1    1    0   
 $EndComp
-Text Notes 2850 7750 0    60   ~ 0
-Notes :\n- Gsensor\n- LED driver
 $Comp
 L Device:R R4
 U 1 1 59554DFE
 P 1700 6300
 F 0 "R4" V 1780 6300 50  0000 C CNN
-F 1 "1.8k" V 1700 6300 50  0000 C CNN
+F 1 "DNP" V 1700 6300 50  0000 C CNN
 F 2 "Resistors_SMD:R_0402_NoSilk" V 1630 6300 50  0001 C CNN
 F 3 "" H 1700 6300 50  0001 C CNN
 	1    1700 6300
@@ -1530,8 +1527,6 @@ Wire Wire Line
 Connection ~ 1900 8350
 Wire Wire Line
 	1400 8350 1250 8350
-Wire Wire Line
-	3150 7550 3150 7500
 $Comp
 L conn:TEST_1P J25
 U 1 1 5965FBBD
