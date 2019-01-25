@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ImageBoard-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1431,19 +1432,6 @@ F 3 "" H 7900 5350 50  0001 C CNN
 	1    7700 5350
 	0    1    1    0   
 $EndComp
-$Comp
-L conn:TEST_1P J24
-U 1 1 595E2494
-P 7700 5450
-F 0 "J24" V 7700 5700 50  0000 C CNN
-F 1 "MON2" V 7700 6000 50  0000 C CNN
-F 2 "Housings_CSP:castellated_hole_0.3" H 7900 5450 50  0001 C CNN
-F 3 "" H 7900 5450 50  0001 C CNN
-	1    7700 5450
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	7300 5450 7700 5450
 Wire Wire Line
 	7300 5350 7700 5350
 Wire Wire Line
@@ -1612,8 +1600,6 @@ Text Label 7350 5250 0    60   ~ 0
 M0
 Text Label 7350 5350 0    60   ~ 0
 M1
-Text Label 7350 5450 0    60   ~ 0
-M2
 $Comp
 L LocalLib:NOIP1SN0480A U1
 U 1 1 596FCD2B
