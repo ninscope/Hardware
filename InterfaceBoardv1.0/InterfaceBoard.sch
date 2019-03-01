@@ -278,8 +278,6 @@ F 3 "" H 3350 4900 60  0000 C CNN
 	1    3350 4900
 	1    0    0    -1  
 $EndComp
-Text Notes 12900 2850 0    100  ~ 0
-Note:\n- External I2C\n- Geluid
 $Comp
 L power:+1V8 #PWR02
 U 1 1 5A745A8F
