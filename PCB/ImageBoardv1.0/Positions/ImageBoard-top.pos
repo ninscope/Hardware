@@ -1,0 +1,22 @@
+### Module positions - created on 27/03/2019 09:52:38 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                            PosX       PosY       Rot  Side
+C11       10uF                          R_0402_NoSilk                   24.7100   -23.7600  180.0000  top
+C12       100nF                         R_0201_NoSilk                   32.2300   -24.8600    0.0000  top
+C13       100nF                         R_0201_NoSilk                   31.2600   -27.2300  270.0000  top
+C15       10nF                          R_0201_NoSilk                   30.5600   -27.2300  270.0000  top
+C16       10nF                          R_0201_NoSilk                   24.8300   -23.0900  180.0000  top
+C17       100nF                         R_0201_NoSilk                   31.2557   -21.0969    0.0000  top
+C18       100nF                         R_0201_NoSilk                   29.8600   -27.2300  270.0000  top
+C19       10uF                          R_0402_NoSilk                   27.2800   -21.0700    0.0000  top
+C20       10nF                          R_0201_NoSilk                   26.1950   -20.9575   90.0000  top
+C21       100nF                         R_0201_NoSilk                   28.5200   -21.1900  180.0000  top
+C22       10uF                          R_0402_NoSilk                   24.7625   -21.0896  180.0000  top
+C23       100nF                         R_0201_NoSilk                   32.0726   -22.3850   90.0000  top
+C24       10nF                          R_0201_NoSilk                   24.8500   -21.8700  180.0000  top
+R5        47.5k                         R_0201_NoSilk                   24.9900   -24.8200   90.0000  top
+REF**     Fiducial_0.5mm_Dia_1mm_Outer  Fiducial_0.5mm_Dia_1mm_Outer    24.2748   -28.2143    0.0000  top
+REF**     Fiducial_0.5mm_Dia_1mm_Outer  Fiducial_0.5mm_Dia_1mm_Outer    29.8704   -20.5638    0.0000  top
+## End

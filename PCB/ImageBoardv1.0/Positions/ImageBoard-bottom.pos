@@ -1,0 +1,36 @@
+### Module positions - created on 27/03/2019 09:52:38 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                           Package                                         PosX       PosY       Rot  Side
+C1        100nF                         R_0201_NoSilk                               -27.0600   -26.0500   90.0000  bottom
+C2        100nF                         R_0201_NoSilk                               -25.0700   -26.0600   90.0000  bottom
+C3        1uF                           C_0201_NoSilk                               -32.1400   -19.8100   90.0000  bottom
+C4        1uF                           C_0201_NoSilk                               -32.7400   -19.8100   90.0000  bottom
+C5        1uF                           C_0201_NoSilk                               -25.0700   -24.1600  270.0000  bottom
+C6        1uF                           C_0201_NoSilk                               -24.5120   -24.1576  270.0000  bottom
+C7        1uF                           C_0201_NoSilk                               -32.7100   -23.7400  270.0000  bottom
+C8        1uF                           C_0201_NoSilk                               -32.0500   -23.5300  270.0000  bottom
+C9        1uF                           R_0201_NoSilk                               -28.1000   -26.9800  180.0000  bottom
+C10       100nF                         R_0201_NoSilk                               -28.2700   -26.0100  180.0000  bottom
+C14       100nF                         R_0201_NoSilk                               -27.3441   -24.1703  180.0000  bottom
+C25       100nF                         R_0201_NoSilk                               -32.2100   -25.3000    0.0000  bottom
+C26       100nF                         R_0201_NoSilk                               -30.5700   -20.2500  270.0000  bottom
+C27       10uF                          R_0402_NoSilk                               -24.3500   -20.6527   90.0000  bottom
+L1        Ferrite_Bead_Small            L_0402                                      -28.1800   -28.1300  270.0000  bottom
+R1        1.5k                          R_0201_NoSilk                               -26.4100   -26.0700   90.0000  bottom
+R2        1.8k                          R_0201_NoSilk                               -25.7500   -26.0600   90.0000  bottom
+R3        1.5k                          R_0201_NoSilk                               -32.8600   -27.0900   90.0000  bottom
+R4        DNP                           R_0201_NoSilk                               -32.8600   -28.1000  270.0000  bottom
+R6        10k                           R_0201_NoSilk                               -25.6388   -19.9314    0.0000  bottom
+R7        10k                           R_0201_NoSilk                               -26.3931   -20.5003  270.0000  bottom
+R8        10k                           R_0201_NoSilk                               -25.2000   -21.2300  270.0000  bottom
+REF**     Fiducial_0.5mm_Dia_1mm_Outer  Fiducial_0.5mm_Dia_1mm_Outer                -30.6730   -23.5204    0.0000  bottom
+REF**     Fiducial_0.5mm_Dia_1mm_Outer  Fiducial_0.5mm_Dia_1mm_Outer                -24.3789   -28.1280    0.0000  bottom
+U2        LMV321                        SC-70                                       -26.3100   -27.5400  270.0000  bottom
+U3        LM3880                        LM3880                                      -29.3900   -20.9600  270.0000  bottom
+U4        NCP163_1.8V                   XDFN4                                       -32.3800   -20.9100  180.0000  bottom
+U5        NCP163_3.3V                   XDFN4                                       -24.7600   -23.0500    0.0000  bottom
+U6        NCP163_3.3V                   XDFN4                                       -32.3600   -22.3500    0.0000  bottom
+U7        MEM-OSC                       Oscillator_SMD_Abracon_ASE-4pin_3.2x2.5mm   -30.7500   -27.4300  180.0000  bottom
+## End

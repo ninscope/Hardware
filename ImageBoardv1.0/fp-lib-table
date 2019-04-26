@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name Python480Lib)(type KiCad)(uri "$(KIPRJMOD)/Python480Lib.pretty")(options "")(descr ""))
-  (lib (name LocalFootprtLib)(type KiCad)(uri "$(KIPRJMOD)/LocalFootprtLib.pretty")(options "")(descr ""))
-)
