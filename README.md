@@ -4,7 +4,7 @@ Check the wiki page for more info : https://github.com/ninscope/Hardware/wiki
 
 ### Baseplate holder
 
-[](https://scope.nin.knaw.nl/BaseplateHolder.jpg)
+![](https://scope.nin.knaw.nl/BaseplateHolder.jpg)
 
 ### Assembly of optics
 
