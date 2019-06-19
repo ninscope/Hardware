@@ -8,7 +8,7 @@ The assembly of optics resembles that of the first-gen. UCLA miniscope, with a f
 
 ### Cleaning of CMOS sensor
 
-In case of dust particles or other particulates dropping on the CMOS sensor one can use 'Sticky Swabs' (ideal-tek) to remove them without causing damage to the sensor.
+In case of dust particles or other particulates dropping on the CMOS sensor one can use 'Sticky Swabs' (ideal-tek, https://www.ideal-tek.com/public/doc/Sticky-swabs-leaflet_Ideal-tek.pdf) to remove them without causing damage to the sensor.
 
 ### Computer requirements
 
