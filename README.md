@@ -2,10 +2,6 @@
 Printed circuit boards used in the NINScope designed in KiCAD.
 Check the wiki page for more info : https://github.com/ninscope/Hardware/wiki
 
-### Baseplate holder
-
-![](https://scope.nin.knaw.nl/MountBaseplateHolder.png)
-
 ### Assembly of optics
 
 The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the emission and dichroic optical filters are 500 µm and therefore thinner and more fragile. The emission filter of 1000 µm thickness is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
