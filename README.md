@@ -19,4 +19,4 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 
 ### Interfacing to a PC
 
-:warning:  A USB 3.0 port is required to connect the modified UCLA DAQ (v3.2) to a PC, otherwise NINscope will not be recognized during installation.
+:warning:  A USB 3.0 port (on some PCs indicated by SS, SuperSpeed USB) is required to connect the modified UCLA DAQ (v3.2) to a PC, otherwise NINscope will not be recognized during installation.
