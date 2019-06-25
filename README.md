@@ -20,3 +20,7 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 ### Interfacing to a PC
 
 :warning:  A USB 3.0 port (on some PCs indicated by SS, SuperSpeed USB) is required to connect the modified UCLA DAQ (v3.2) to a PC, otherwise NINscope will not be recognized during installation.
+
+### Note about settings the excitation and optogenetic LED currents
+
+:warning: Care is adviced when setting the curent to the excitation LED to high levels. First, this is not necessary given that low curernts provide sufficient light output from the excitation LED to perform imaging. Moreover, settings up to 35 mA are in the linear range of the driver. Secondly driving a large current to the excitation LED will cause issues when combining imaging with optogenetic stimulation. Current to the optogenetic LED can also be adjusted 
