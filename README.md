@@ -2,6 +2,9 @@
 Printed circuit boards used in the NINScope designed in KiCAD.
 Check the wiki page for more info : https://github.com/ninscope/Hardware/wiki
 
+# Printing material
+We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with HTM 140 V2 resin (requires coating afterward) and Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. Some users have provided feedback that Accura ABS Black (SL 7820) (SLA) resin gives improved results using the printing service of Protolabs.
+
 ### Assembly of optics
 
 The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the emission and dichroic optical filters are 500 µm and therefore thinner and more fragile. The emission filter of 1000 µm thickness is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
