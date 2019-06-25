@@ -23,4 +23,4 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 
 ### Note about setting the excitation LED current
 
-:warning: Care is adviced when setting the curent to the excitation LED. Please note that low curernts provide sufficient light output from the excitation LED to perform imaging. Moreover, current settings up to 35 mA are in the linear range of the excitation LED driver and it is adviced to stay within this range. Driving a large current to the excitation LED in combination with optogenetic stimulation could lead to unexpected intensity drops during image acquisition.
+:warning: Care is adviced when setting the curent to the excitation LED. Please note that low curernts (2.38-9.38 mA) provide sufficient light output (0.12-0.46 mW before GRIN objective) from the excitation LED to perform imaging. Moreover, current settings up to 35 mA are in the linear range of the excitation LED driver and it is adviced to stay within this range. Driving a large current to the excitation LED in combination with optogenetic stimulation could lead to unexpected intensity drops during image acquisition.
