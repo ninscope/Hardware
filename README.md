@@ -2,7 +2,7 @@
 Printed circuit boards used in the NINScope designed in KiCAD.
 Check the wiki page for more info : https://github.com/ninscope/Hardware/wiki
 
-# Printing material
+### Printing material
 We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with RCP-30 resin (requires coating afterwards) and Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. 
 
 ### Assembly of optics
