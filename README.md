@@ -1,4 +1,4 @@
-:construction: This wiki is under construction and may still say some updates :construction:
+:construction: Beta version of wiki :construction:
 
 # Hardware
 Printed circuit boards used in the NINScope designed in KiCAD.
