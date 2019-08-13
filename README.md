@@ -2,7 +2,7 @@
 Printed circuit boards used in the NINScope designed in KiCAD.
 Check the wiki page for more info : https://github.com/ninscope/Hardware/wiki
 
-If you can wait for 2-3 months (13-08-2019) LabMaker is in the process of manufacturing the sensor and interface PCBs as a unit for sale. Please fill out the following form if you are interested in purchasing the PCBs through LabMaker: 
+LabMaker is in the process of manufacturing the sensor and interface PCBs as a unit for sale. Please fill out the following form if you are interested in purchasing the PCBs through LabMaker: 
 
 https://docs.google.com/forms/d/e/1FAIpQLSfAj43ocVpiAZvSG1-GbBokts9RmP8jfD8x3Ee3YmrGeCPbAg/viewform
 
