@@ -23,10 +23,13 @@ In case of dust particles or other particulates dropping on the CMOS sensor one 
 
 We recommend using a laptop with SSD drive for respectively mobility and optimal disk write speeds. Despite this we have tested operating NINscope on a variety of systems including a MacBook Pro laptop running MacOS Mojave (R2015, i7, SSD), Mac Mini running MacOS High Sierra (R2014, i5, 5400 rpm HD), Dell PC Z240 running Windows 7(i7, NVMe SSD Samsung MZVLW256), a NUC7i5BNH running Windows 10 (i5, SSD Crucial MX500), a Linux Workstation running Ubuntu 18.04 (Intel Xeon, SSD) and a Dell PC OptiPlex 3050 SFF running Ubuntu 18.04 (i5, SSD).
 
-
 ### Interfacing to a PC
 
 :warning:  A USB 3.0 port (on some PCs indicated by SS, SuperSpeed USB) is required to connect the modified UCLA DAQ (v3.2) to a PC, otherwise NINscope will not be recognized during installation.
+
+### WebCams for behavioral monitoring
+
+UVC-compliant USB webcams are supported. We have successfully tested Logitech webcams inlcuding the C920 HD pro cam. PS3 Eye webcams are currently not supported as they are not UVC-compliant.
 
 ### Note about setting the excitation LED current
 
