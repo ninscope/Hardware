@@ -27,7 +27,7 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 
 :warning:  A USB 3.0 port (on some PCs indicated by SS, SuperSpeed USB) is required to connect the modified UCLA DAQ (v3.2) to a PC, otherwise NINscope will not be recognized during installation.
 
-### WebCams for behavioral monitoring
+### Webcams for behavioral monitoring
 
 UVC-compliant USB webcams are supported. We have successfully tested Logitech webcams inlcuding the C920 HD pro cam. PS3 Eye webcams are currently not supported as they are not UVC-compliant.
 
