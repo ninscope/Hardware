@@ -31,6 +31,11 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 
 UVC-compliant USB webcams are supported. We have successfully tested Logitech webcams inlcuding the C920 HD pro cam. PS3 Eye webcams are currently not supported as they are not UVC-compliant.
 
+### Trigger and frame output ports
+
+SMA to BNC cables can be purchased directly, e.g.: https://nl.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/415-0028-048?qs=sGAEpiMZZMufBZYvsU%2Fbe5IX9y1Z%252BxjUbtuL98E%2Fl5g%3D 
+This allows for triggering the acquisition with an external trigger, or logging the miniscope frames during acquisition.
+
 ### Note about setting the excitation LED current
 
 :warning: Care is adviced when setting the curent to the excitation LED. Please note that low curernts (2.38-9.38 mA) provide sufficient light output (0.12-0.46 mW before GRIN objective) to perform imaging (in cortex and striatum respectively). Moreover, it is adviced to stay within the linear range of the LED driver (<35 mA). Be aware that driving a large current to the excitation LED in combination with optogenetic stimulation could lead to unexpected intensity drops during image acquisition. We have been succesful in our experiments using currents to the optogenetic LED of 11-33 mA and 2.38-9.38 mA to the excitation LED.
