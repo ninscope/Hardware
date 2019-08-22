@@ -31,7 +31,7 @@ We recommend using a laptop with SSD drive for respectively mobility and optimal
 
 UVC-compliant USB webcams are supported. We have successfully tested Logitech webcams inlcuding the C920 HD pro cam. PS3 Eye webcams are currently not supported as they are not UVC-compliant.
 
-### Trigger and frame output ports
+### DAQ trigger and output port cables
 
 SMA to BNC cables can be purchased directly, e.g.: https://nl.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/415-0028-048?qs=sGAEpiMZZMufBZYvsU%2Fbe5IX9y1Z%252BxjUbtuL98E%2Fl5g%3D 
 This allows for triggering the acquisition with an external trigger, or logging the miniscope frames during acquisition.
