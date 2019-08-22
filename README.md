@@ -33,7 +33,7 @@ UVC-compliant USB webcams are supported. We have successfully tested Logitech we
 
 ### DAQ trigger and output port cables
 
-SMA to BNC cables can be purchased directly, e.g.: https://nl.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/415-0028-048?qs=sGAEpiMZZMufBZYvsU%2Fbe5IX9y1Z%252BxjUbtuL98E%2Fl5g%3D 
+SMA to BNC cables can be purchased directly, e.g.: https://nl.mouser.com/ProductDetail/Johnson-Cinch-Connectivity-Solutions/415-0028-048?qs=sGAEpiMZZMufBZYvsU%2Fbe5IX9y1Z%252BxjUbtuL98E%2Fl5g%3D.
 This allows for triggering the acquisition with an external trigger, or logging the miniscope frames during acquisition.
 
 ### Note about setting the excitation LED current
