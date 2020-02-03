@@ -1,23 +1,21 @@
-# Hardware
+## Hardware
 Printed circuit boards used in NINscope were designed in KiCAD.
-Check the wiki page for more info: https://github.com/ninscope/Hardware/wiki
+Check the Hardware wiki page for more info: https://github.com/ninscope/Hardware/wiki
 
-:exclamation::exclamation: LabMaker is in the process of manufacturing the sensor and interface PCBs as a unit for sale. We expect release in the coming weeks. Please fill out the following form if you are interested in purchasing the PCBs through LabMaker: 
-
-https://docs.google.com/forms/d/e/1FAIpQLSfAj43ocVpiAZvSG1-GbBokts9RmP8jfD8x3Ee3YmrGeCPbAg/viewform
+Update 03/02/2020: We expect http://www.LabMaker.org to start selling the electronics, baseplates and DAQ box for NINscope in the coming weeks. 
 
 ### Printing material
-We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with RCP-30 resin (requires coating afterwards) and Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. 
+We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with RCP-30 resin (requires coating afterwards) and a Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. 
 
 ### Assembly of optics
 
-The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the emission and dichroic optical filters are 500 µm and therefore thinner and more fragile. The emission filter of 1000 µm thickness is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
+The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the excitation, emission and dichroic optical filters are all 500 µm and therefore thinner and more fragile. The emission filter is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
 
 For more details see: https://github.com/ninscope/Hardware/wiki/5.-Mechanical-assembly-NINscope
 
 ### Cleaning the CMOS sensor
 
-In case of dust particles or other particulates dropping on the CMOS sensor one can use 'Sticky Swabs' (ideal-tek, https://www.ideal-tek.com/public/doc/Sticky-swabs-leaflet_Ideal-tek.pdf) to remove them without causing damage to the sensor.
+In case of dust particles or other particulates dropping on the CMOS sensor one we recommend the use of 'Sticky Swabs' (ideal-tek, https://www.ideal-tek.com/public/doc/Sticky-swabs-leaflet_Ideal-tek.pdf) to remove them without causing damage to the sensor.
 
 ### Computer requirements
 
