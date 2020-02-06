@@ -1,3 +1,7 @@
+## Parts list
+
+For a parts list with components and links to manufacturers please visit our NINscope parts list spreadsheet. This list will be updated to reflect availability of components. https://drive.google.com/open?id=1j7zTo7a2k-jmMWEIm5uMFHZk3aub0za10LsDC2N34rI
+
 ## Hardware
 Printed circuit boards used in NINscope were designed in KiCAD.
 Check the Hardware wiki page for more info: https://github.com/ninscope/Hardware/wiki
