@@ -1,6 +1,6 @@
 # Welcome to the NINscope Hardware page
 
-1. [Wiring: excitation LED and optogenetic Connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)<p>
+1. [Wiring: excitation LED and optogenetic connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)<p>
 2. [Connecting the sensor and interface PCBs](https://github.com/ninscope/Hardware/wiki/2.-Connecting-the-sensor--and-interface-PCBs)<p>
 3. [Cable and yarn for sensor PCB (image board)](https://github.com/ninscope/Hardware/wiki/3.-Cable-and-yarn-for-sensor-PCB-(image-board))<p>
 4. [Wiring: LED to interface PCB](https://github.com/ninscope/Hardware/wiki/4.-Wiring:-LED-to-the-interface-PCB)<p>
