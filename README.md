@@ -1,3 +1,6 @@
+See also:[ [Firmware](https://github.com/ninscope/Firmware/wiki) ]
+[ [Software](https://github.com/ninscope/Software/wiki) ]<p>
+
 # Welcome to the NINscope Hardware page
 
 1. [Wiring: excitation LED and optogenetic connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)<p>
