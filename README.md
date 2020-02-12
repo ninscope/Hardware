@@ -1,4 +1,4 @@
-See also:[Firmware](https://github.com/ninscope/Firmware/wiki/NINscope-firmware) -
+See also: [Firmware](https://github.com/ninscope/Firmware/wiki/NINscope-firmware) -
 [Software](https://github.com/ninscope/Software/wiki/NINscope-Software) 
 # Welcome to the NINscope hardware page
 
