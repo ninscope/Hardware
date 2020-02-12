@@ -1,14 +1,14 @@
 # Welcome to the NINscope Hardware page
 
-1.[Wiring: excitation LED and optogenetic Connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)<p>
-2.[Connecting the sensor and interface PCBs](https://github.com/ninscope/Hardware/wiki/2.-Connecting-the-sensor--and-interface-PCBs)<p>
-3.[Cable and yarn for sensor PCB (image board)](https://github.com/ninscope/Hardware/wiki/3.-Cable-and-yarn-for-sensor-PCB-(image-board))<p>
-4.[Wiring: LED to interface PCB](https://github.com/ninscope/Hardware/wiki/4.-Wiring:-LED-to-the-interface-PCB)<p>
-5.[Assembling mechanical parts, lenses and filters](https://github.com/ninscope/Hardware/wiki/5.-Assembling-mechanical-parts%2C-lenses-and-filters/_edit)<p>
-6.[Making a DAQ cable](https://github.com/ninscope/Hardware/wiki/6.-Making-a-DAQ-cable)<p>
-7.[How to modify the UCLA DAQ for use with NINscope](https://github.com/ninscope/Hardware/wiki/7.-How-to-modify-the-UCLA-DAQ-for-use-with-NINscope)<p>
-8.[How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)<p>
-9.[Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-NINscope)<p>
+1. [Wiring: excitation LED and optogenetic Connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)<p>
+2. [Connecting the sensor and interface PCBs](https://github.com/ninscope/Hardware/wiki/2.-Connecting-the-sensor--and-interface-PCBs)<p>
+3. [Cable and yarn for sensor PCB (image board)](https://github.com/ninscope/Hardware/wiki/3.-Cable-and-yarn-for-sensor-PCB-(image-board))<p>
+4. [Wiring: LED to interface PCB](https://github.com/ninscope/Hardware/wiki/4.-Wiring:-LED-to-the-interface-PCB)<p>
+5. [Assembling mechanical parts, lenses and filters](https://github.com/ninscope/Hardware/wiki/5.-Assembling-mechanical-parts%2C-lenses-and-filters/_edit)<p>
+6. [Making a DAQ cable](https://github.com/ninscope/Hardware/wiki/6.-Making-a-DAQ-cable)<p>
+7. [How to modify the UCLA DAQ for use with NINscope](https://github.com/ninscope/Hardware/wiki/7.-How-to-modify-the-UCLA-DAQ-for-use-with-NINscope)<p>
+8. [How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)<p>
+9. [Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-NINscope)<p>
 
 
 ## Parts list
