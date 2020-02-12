@@ -1,3 +1,16 @@
+# Welcome to the NINscope Hardware page
+
+1.[Wiring: excitation LED and optogenetic Connector](https://github.com/ninscope/Hardware/wiki/1.-Wiring:-excitation-LED-and-optogenetic-connector)
+2.[Connecting the sensor and interface PCBs](https://github.com/ninscope/Hardware/wiki/2.-Connecting-the-sensor--and-interface-PCBs)
+3.[Cable and yarn for sensor PCB (image board)](https://github.com/ninscope/Hardware/wiki/3.-Cable-and-yarn-for-sensor-PCB-(image-board))
+4.[Wiring: LED to interface PCB](https://github.com/ninscope/Hardware/wiki/4.-Wiring:-LED-to-the-interface-PCB)
+5.[Assembling mechanical parts, lenses and filters](https://github.com/ninscope/Hardware/wiki/5.-Assembling-mechanical-parts%2C-lenses-and-filters/_edit)
+6.[Making a DAQ cable](https://github.com/ninscope/Hardware/wiki/6.-Making-a-DAQ-cable)
+7.[How to modify the UCLA DAQ for use with NINscope](https://github.com/ninscope/Hardware/wiki/7.-How-to-modify-the-UCLA-DAQ-for-use-with-NINscope)
+8.[How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)
+9.[Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-NINscope)
+
+
 ## Parts list
 
 For a parts list with components and links to manufacturers please visit our NINscope parts list spreadsheet. This list will be updated to reflect availability of components. https://drive.google.com/open?id=1j7zTo7a2k-jmMWEIm5uMFHZk3aub0za10LsDC2N34rI
