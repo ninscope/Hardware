@@ -21,7 +21,7 @@ For a parts list with components and links to manufacturers please visit our NIN
 Printed circuit boards used in NINscope were designed in KiCAD.
 Check the Hardware wiki page for more info: https://github.com/ninscope/Hardware/wiki
 
-Update 03/02/2020: We expect http://www.LabMaker.org to start selling the electronics, baseplates and DAQ box for NINscope in the coming weeks. 
+LabMaker sells the electronics (PCBs,excitation LED print w/ cabling), baseplates and DAQ box for NINscope [here](https://www.labmaker.org/collections/neuroscience/products/ninscope).
 
 ### Printing material
 We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with RCP-30 resin (requires coating afterwards) and a Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. 
