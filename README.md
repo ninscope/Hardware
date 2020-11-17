@@ -10,7 +10,7 @@ See also: [Firmware](https://github.com/ninscope/Firmware/wiki/NINscope-firmware
 6. [Making a DAQ cable](https://github.com/ninscope/Hardware/wiki/6.-Making-a-DAQ-cable)<p>
 7. [How to modify the UCLA DAQ for use with NINscope](https://github.com/ninscope/Hardware/wiki/7.-How-to-modify-the-UCLA-DAQ-for-use-with-NINscope)<p>
 8. [How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)<p>
-9. [Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-NINscope)<p>
+9. [Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-Baseplate-%28with--NINscope%29/)<p>
 
 
 ## Parts list
