@@ -12,9 +12,9 @@ See also: [Firmware](https://github.com/ninscope/Firmware/wiki/NINscope-firmware
 8. [How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)<p>
 9. [Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-Baseplate-%28with--NINscope%29/)<p>
 
-## Third Party providers
+## Third party providers
 - LabMaker sells interface/sensor/exc. LED PCB assemblies, baseplates and a modified DAQ v3.2 that is fully compatible with NINscope (https://www.labmaker.org/collections/neuroscience/products/ninscope).
-- The DAQ v3.3. box can be ordered through OpenEphys is cross-compatible with NINscope, UCLA v3/v4 miniscopes (https://open-ephys.org/miniscope-v4/daq).
+- OpenEphys sell a new DAQ v3.3. box that is cross-compatible with NINscope, UCLA v3/v4 miniscopes (https://open-ephys.org/miniscope-v4/daq).
 - Jason Rosenberg provides 3D printed parts (https://www.rosenbergindustries.com).
 - :new: NEUROGIG will provide NINscope either fully assembled, or as a kit (https://neurogig.com/ninscope).
 
