@@ -12,6 +12,11 @@ See also: [Firmware](https://github.com/ninscope/Firmware/wiki/NINscope-firmware
 8. [How to make the optogenetic LED probe](https://github.com/ninscope/Hardware/wiki/8.-How-to-make-the-optogenetic-LED-probe)<p>
 9. [Mounting a NINscope](https://github.com/ninscope/Hardware/wiki/9.-Mounting-a-Baseplate-%28with--NINscope%29/)<p>
 
+## Third Party providers
+- LabMaker sells interface/sensor/exc. LED PCB assemblies, baseplates and a modified DAQ v3.2 that is fully compatible with NINscope (https://www.labmaker.org/collections/neuroscience/products/ninscope).
+- The DAQ v3.3. box can be ordered through OpenEphys is cross-compatible with NINscope, UCLA v3/v4 miniscopes (https://open-ephys.org/miniscope-v4/daq).
+- Jason Rosenberg provides 3D printed parts (https://www.rosenbergindustries.com).
+- :new: NEUROGIG will provide NINscope either fully assembled, or as a kit (https://neurogig.com/ninscope).
 
 ## Parts list
 
@@ -28,7 +33,7 @@ We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advant
 
 ### Assembly of optics
 
-The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the excitation, emission and dichroic optical filters are all 500 µm and therefore thinner and more fragile. The emission filter is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
+The assembly of optics resembles that of the first-gen. UCLA miniscope, with a few differences. First the excitation, emission and dichroic optical filters are  500 µm (although emission filter can also be 1 mm) and therefore thinner and more fragile. The emission filter is glued on to the plano-convex lens with optical bonding glue (NOA81, Norland Products) and lowered into the lower half of the NINscope housing. 
 
 For more details see: https://github.com/ninscope/Hardware/wiki/5.-Mechanical-assembly-NINscope
 
