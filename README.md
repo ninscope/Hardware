@@ -28,6 +28,10 @@ Check the Hardware wiki page for more info: https://github.com/ninscope/Hardware
 
 LabMaker sells the electronics (PCBs,excitation LED print w/ cabling), baseplates and DAQ box for NINscope [here](https://www.labmaker.org/collections/neuroscience/products/ninscope).
 
+::warning:: If you want to test the eletronics of the assembled Sensor and Interface PCBs we have a detailed checklist that you can follow to ensure that the product is functional[here](https://docs.google.com/document/d/1W9_0DqJ-PkQ9aQyRxBNEjCV_T0Hf-5QzB9fYpEki9Dw/edit?usp=sharing)
+
+
+
 ### Printing material
 We have 3D printed the microscope housing using an EnvisionTec Micro Plus Advantage printer with RCP-30 resin (requires coating afterwards) and a Formlabs Form 2 printer using RS-F2-GPBK-04 black resin. Parts for NINscope can be directly order through Jason Rosenberg https://www.rosenbergindustries.com 
 
