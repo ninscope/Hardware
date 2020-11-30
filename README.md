@@ -28,7 +28,7 @@ Check the Hardware wiki page for more info: https://github.com/ninscope/Hardware
 
 LabMaker sells the electronics (PCBs,excitation LED print w/ cabling), baseplates and DAQ box for NINscope [here](https://www.labmaker.org/collections/neuroscience/products/ninscope).
 
-:warning: If you want to test the eletronics of the assembled Sensor and Interface PCBs we have a detailed checklist that you can follow to ensure that the product is functional[here](https://docs.google.com/document/d/1W9_0DqJ-PkQ9aQyRxBNEjCV_T0Hf-5QzB9fYpEki9Dw/edit?usp=sharing)
+:warning: If you want to test the eletronics of the assembled Sensor and Interface PCBs we have a detailed checklist that you can follow to ensure that the product is functional [here](https://docs.google.com/document/d/1W9_0DqJ-PkQ9aQyRxBNEjCV_T0Hf-5QzB9fYpEki9Dw/edit?usp=sharing)
 
 
 ### Printing material
